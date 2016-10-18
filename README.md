@@ -25,3 +25,4 @@ public class Aia
   {//corpo vuoto
 	}
 }
+inserimento da AIDE
