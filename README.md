@@ -15,7 +15,7 @@ codice
 cd /urs/home/.local/share/applications/Android-Studio.desktop
 '''
 =============================================================================================================
-#Nuova SeSSione
+
 uso commenti  _Ma che sta facendo questo_
 un po di java 
 import .Acccidenti
@@ -25,4 +25,6 @@ public class Aia
   {//corpo vuoto
 	}
 }
-inserimento da AIDE
+inserimento da AIDE 
+#Riprovo
+
